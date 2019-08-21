@@ -30,7 +30,7 @@ body{
 .subtitulo{
 	font-size: 17px;
 	color: #151515;
-	font-family: Comic Sans MS, cursive;
+	font-family: Comic Sans MS, cursive, Helvetica, sans-serif;
 	text-shadow: 1px 1px #0B2F3A;
 }
 
